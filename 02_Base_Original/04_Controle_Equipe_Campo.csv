@@ -1,0 +1,13 @@
+ID_Colaborador,Nome,Função,Polo,Bloco,Municípios_Autorizados,Supervisor,Situação,Data_Início,Data_Fim,Treinamento,Versão_Formulário_Habilitada,Observações
+P001,Ana,Pesquisadora,Polo 1,B1,Rio Claro;Santa Aurora,Marina,Ativo,2026-04-01,,Sim,v2.4,
+P002,Carlos,Pesquisador,Polo 2,B2,Vale Verde;Serra Azul,João,Ativo,2026-04-01,,Sim,v2.4,
+P003,Júlia,Pesquisadora,Polo 3,B3,Boa Esperança,Paula,Ativo,2026-04-01,,Sim,v2.4,
+P004,Pedro,Pesquisador,Polo 4,B4,Lagoa Nova;São Miguel do Norte,Paula,Ativo,2026-04-01,,Sim,v2.3,
+P005,Rafaela,Pesquisadora,Polo 2,B2,Vale Verde,João,Afastado,2026-04-01,2026-04-18,Sim,v2.4,
+P006,Tiago,Pesquisador,Polo 1,B1,Rio Claro,Marina,Ativo,2026-04-01,,Não,v2.4,Treinamento pendente
+S001,Marina,Supervisora,Polo 1,,Rio Claro;Santa Aurora,,Ativo,2026-03-20,,Sim,v2.4,
+S002,João,Supervisor,Polo 2,,Vale Verde;Serra Azul,,Ativo,2026-03-20,,Sim,v2.4,
+S003,Paula,Supervisora,Polo 3,,Boa Esperança;Lagoa Nova,,Ativo,2026-03-20,,Sim,v2.4,
+M001,Lia,Mobilizadora,Polo 1,B1,Rio Claro,Marina,Ativo,2026-04-01,,Sim,v2.4,
+M002,Bruno,Mobilizador,Polo 2,B2,Santa Aurora;Vale Verde,João,Ativo,2026-04-01,,Sim,v2.4,
+M003,Marcos,Mobilizador,Polo 4,B4,Lagoa Nova,Paula,Ativo,2026-04-01,,Sim,v2.4,

@@ -1,0 +1,13 @@
+# Ignorar pastas de dados processados (grandes)
+03_Resultados_Processados/
+05_Evidencias_Renomeacao/
+
+# Ignorar arquivos grandes (CSVs, Parquets, etc.)
+*.parquet
+*.xlsx
+output_tratado/
+estatisticas/
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
