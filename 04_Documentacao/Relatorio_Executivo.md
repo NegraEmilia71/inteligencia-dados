@@ -142,7 +142,7 @@ O Script 6 corrige os atuais após a execução, mas aos novos arquivos devem se
 
 O pipeline implementado entrega um conjunto de dados consolidado, rastreável e documentado estando pronto para uso em análises do diagnóstico socioambiental. Todas as etapas, da identificação de problemas até a exportação final, foram automatizadas o que garantindo a reprodutibilidade, confiabilidade e escalabilidade para futuras rodadas de coleta.
 
-Recomenda-se a correção imediata dos 11 problemas críticos e a atualização da Base de Cadastro de Equipe para que a base atinja 100% de conformidade. Os arquivos finais estão disponíveis no diretório `03_Resultados_Processados/Dados_Tratados/`.
+Recomenda-se a correção imediata dos 10 problemas críticos e a atualização da Base de Cadastro de Equipe para que a base atinja 100% de conformidade. Os arquivos finais estão disponíveis no diretório `03_Resultados_Processados/Dados_Tratados/`.
 
 ## 8. Anexos
 
