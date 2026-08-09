@@ -1,6 +1,6 @@
 # 📊 Gestão de Dados de Pesquisa – Diagnóstico Socioambiental
 
-**Temple | Analista de Gestão de Dados de Pesquisa Pleno**  
+**Analista de Gestão de Dados de Pesquisa Pleno**  
 **Data da Entrega:** Agosto/2026  
 **Candidata:** Joyce Emília O. Mota
 
